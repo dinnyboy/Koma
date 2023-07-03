@@ -1,2 +1,3 @@
 # Koma
-An project
+Backend Project
+@Koma 2024
